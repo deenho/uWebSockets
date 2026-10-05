@@ -1,0 +1,7 @@
+[wrap-git]
+url = git@gitlab.com:dino.hamzic1/uSockets.git
+revision = head
+depth = 1
+
+[provide]
+usockets = usockets_dep

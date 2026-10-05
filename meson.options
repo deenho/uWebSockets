@@ -1,0 +1,4 @@
+option('ssl', type : 'combo', choices : ['none', 'openssl'], value : 'none', description : 'TLS backend passed to uSockets')
+option('zlib', type : 'boolean', value : true, description : 'Enable permessage-deflate compression via zlib')
+option('proxy', type : 'boolean', value : false, description : 'Enable PROXY Protocol v2 support')
+option('examples', type : 'boolean', value : false, description : 'Build examples')
