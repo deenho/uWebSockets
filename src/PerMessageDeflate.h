@@ -21,6 +21,7 @@
 #define UWS_PERMESSAGEDEFLATE_H
 
 #include <cstdint>
+#include <cstdlib>
 #include <cstring>
 
 /* We always define these options no matter if ZLIB is enabled or not */
