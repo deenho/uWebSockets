@@ -1,5 +1,5 @@
 [wrap-git]
-url = git@gitlab.com:dino.hamzic1/uSockets.git
+url = https://github.com/deenho/uSockets.git
 revision = head
 depth = 1
 
